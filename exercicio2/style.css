@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    /* background-color: green; */
+    height: 10vh;
+    width: 100vw;
+    position: fixed;
+    top: 0;
+}
+
+main{
+    /* background-color: aqua; */
+    height: 200vh;
+    margin-top: 10vh;
+    width: 100vw;
+}
+
+footer{
+    /* background-color: yellowgreen; */
+    position: relative;
+    height: 10vh;
+    border: 1px solid black;
+    bottom: 0;
+}
